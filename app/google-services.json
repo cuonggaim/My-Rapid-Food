@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680876969958",
+    "project_id": "myrapidfoodapp",
+    "storage_bucket": "myrapidfoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680876969958:android:66a7365d6a3816e0461027",
+        "android_client_info": {
+          "package_name": "com.example.myrapidfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680876969958-57e67di5u2gepd5vb5mbbr8tnghp9g9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VNJUrGAdcWW0Cml8rY0DnBZqxssJWOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680876969958-57e67di5u2gepd5vb5mbbr8tnghp9g9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

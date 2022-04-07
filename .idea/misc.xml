@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/drawable-xxxhdpi/mycart.xml" value="0.2203125" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_add_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_address.xml" value="0.25" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_detailed.xml" value="0.42047026279391425" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_main.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_payment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_placed_order.xml" value="0.18" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_show_all.xml" value="0.15" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/activity_welcome.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/address_item.xml" value="0.33" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/category_list.xml" value="0.22" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/fragment_home.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/my_cart_item.xml" value="0.18" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/new_products.xml" value="0.67" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/popular_items.xml" value="0.5538922155688623" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/show_all_item.xml" value="0.67" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/layout/sliding_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/VINHTECH/AndroidStudioProjects/MyRapidFoodApp/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
